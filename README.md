@@ -59,9 +59,10 @@ Founder of the Modern-day Internet Protocol (MIP).
 
 ---
 
-## 📜 License
 
-[Add your license here]
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 
 
