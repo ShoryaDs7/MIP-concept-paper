@@ -67,4 +67,4 @@ Founder of the Modern-day Internet Protocol (MIP).
 
 ---
 
-**Status:** Concept Paper | **Version:** v0.1 | **Last Updated:** January 2025
+**Status:** Concept Paper | **Version:** v0.1 | **Last Updated:** December 2025
